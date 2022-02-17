@@ -43,6 +43,8 @@
   ],
   "devDependencies": {
     "@arkweid/lefthook": "~0.7.7",
+    "@parcel/packager-ts": "2.3.1",
+    "@parcel/transformer-typescript-types": "^2.2.1",
     "@sucrase/jest-plugin": "^2.2.0",
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
@@ -51,7 +53,7 @@
     "effector": "^22.1.2",
     "effector-react": "^22.0.6",
     "jest": "^27.4.7",
-    "parcel": "^2.2.0",
+    "parcel": "2.3.1",
     "prettier": "^2.5.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",

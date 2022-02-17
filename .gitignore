@@ -1,6 +1,5 @@
 node_modules/
 .idea/
-dist/
 .cache/
 build/
 .DS_Store
